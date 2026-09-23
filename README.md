@@ -1,4 +1,4 @@
-# course-materials-ap
+# course-materials-ss
 
 Welcome to the official course repository.
 
@@ -18,11 +18,11 @@ AI / Machine Learning Engineer & University Instructor
 
 |                  |                           |
 | ---------------- | ------------------------- |
-| **Course**       | Advanced Programming      |
-| **Course Title** |   برنامه‌سازی پیشرفته       |
+| **Course**       | Special Subjects          |
+| **Course Title** | مباحث ویژه                |
 | **Instructor**   | Mohammad Amin Alemohammad |
 | **Semester**     | Fall 2026                 |
-| **University**   | Azad university - Karaj Branch         |
+| **University**   | Azad university - karaj        |
 
 ---
 
@@ -43,13 +43,13 @@ AI / Machine Learning Engineer & University Instructor
 
 The course focuses on developing students' ability to:
 
-* Design and implement structured software
-* Apply advanced programming concepts
-* Write clean, maintainable, and reusable code
+* Explore selected topics in computer science and artificial intelligence
+* Apply theoretical concepts through practical projects
+* Develop problem-solving and programming skills
+* Work with modern tools and technologies
 * Work with Git and GitHub
-* Debug and test software
-* Solve programming problems systematically
-* Develop larger programming projects
+* Develop independent learning and research skills
+* Build practical projects based on course topics
 
 ---
 
@@ -77,10 +77,10 @@ Students should follow the provided submission guidelines and use the required G
 
 ## 🔗 Links
 
-* **Student Submissions:** [https://github.com/Special-stds/student-submissions-ss]
-* **Course Organization:** [https://github.com/Special-stds]
-* **Instructor GitHub:** [https://github.com/mhmd-81]
-* **Additional Resources:** [t.me/lim_mhmdl]
+* **Student Submissions:** [Repository Link]
+* **Course Organization:** [Organization Link]
+* **Instructor GitHub:** [GitHub Profile]
+* **Additional Resources:** [Link]
 
 ---
 
