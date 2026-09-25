@@ -77,10 +77,10 @@ Students should follow the provided submission guidelines and use the required G
 
 ## 🔗 Links
 
-* **Student Submissions:** [Repository Link]
-* **Course Organization:** [Organization Link]
-* **Instructor GitHub:** [GitHub Profile]
-* **Additional Resources:** [Link]
+* **Student Submissions:** https://github.com/Special-stds/course-materials-ss
+* **Course Organization:** https://github.com/Special-stds
+* **Instructor GitHub:** https://github.com/mhmd-81
+* **Additional Resources:** https://t.me/lim_mhmdl
 
 ---
 
